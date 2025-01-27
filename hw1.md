@@ -103,8 +103,6 @@ ORDER BY (MAX(tip_amount)) DESC
 
 **Answer:** terraform init, terraform apply -auto-approve, terraform destroy
 
-terraform init, terraform run -auto-approve, terraform destroy
-
 
 
 
